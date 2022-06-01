@@ -1,4 +1,4 @@
 - 😎 Hi, I am Vasu Mishra.
 - ❤️ I am interested in Frontend React Developer.
-- 👀 I am currently learning REACT.
+- 👀 I am currently learning REACT & Next JS.
 - 📫 How to reach me vasumishra09@gmail.com
